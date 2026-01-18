@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/panoschron97/Crud_Application_Java_MySQL.git
+    git clone https://github.com/GMKAKISTOS/Crud_Application_Java_MySQL.git
     cd Crud_Application_Java_MySQL/Java/Crud_Application_MySQL
     ```
 
